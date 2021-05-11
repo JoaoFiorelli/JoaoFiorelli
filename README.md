@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-pedro-fiorelli-820942124)](https://www.linkedin.com/in/joão-pedro-fiorelli-820942124)
+
 <!--
 **JoaoFiorelli/JoaoFiorelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
