@@ -9,6 +9,8 @@ Physicist, passionate about technology and aspiring back-end developer.
 - ⚡ Fun fact: Lover of video games, books and pokemon
 
 [![Fiorelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoFiorelli)](https://github.com/anuraghazra/github-readme-stats)
+![Fiorelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 <!--
 **JoaoFiorelli/JoaoFiorelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
