@@ -8,8 +8,7 @@ Physicist, passionate about technology and aspiring back-end developer.
 - 🤔 I’m looking for help with OOP
 - ⚡ Fun fact: Lover of video games, books and pokemon
 
-[![Fiorelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoFiorelli)](https://github.com/anuraghazra/github-readme-stats)
-![Fiorelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Fiorelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoFiorelli&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
