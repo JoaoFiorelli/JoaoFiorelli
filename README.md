@@ -4,11 +4,14 @@
 
 Physicist, passionate about technology and aspiring back-end developer.
 
-- 🌱 I’m currently learning Python
-- 🤔 I’m looking for help with OOP
+- 🌱 Currently learning Python
+- 🤔 Looking for help with OOP
 - ⚡ Fun fact: Lover of games, books and pokemon
 
 [![Fiorelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoFiorelli&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFiorelli)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
