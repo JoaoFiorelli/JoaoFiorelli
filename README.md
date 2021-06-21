@@ -10,7 +10,7 @@ Physicist, passionate about technology and aspiring back-end developer.
 
 ## 🚀💻 Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoWidth=50)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoWidth=50&logoHeight=30)
 ![Matlab](https://img.shields.io/badge/-Matlab-black?style=flat-square&logoWidth=50)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoWidth=50)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoWidth=50)
