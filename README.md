@@ -10,12 +10,12 @@ Physicist, passionate about technology and aspiring back-end developer.
 
 ## 🚀💻 Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoWidth=30)
-![Matlab](https://img.shields.io/badge/-Matlab-black?style=flat-square)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoWidth=50)
+![Matlab](https://img.shields.io/badge/-Matlab-black?style=flat-square&logoWidth=50)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoWidth=50)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoWidth=50)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoWidth=50)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoWidth=50)
 
 [![Fiorelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoFiorelli&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFiorelli&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
