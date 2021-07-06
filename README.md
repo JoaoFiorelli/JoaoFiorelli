@@ -8,7 +8,7 @@ Physicist, passionate about technology and aspiring back-end developer.
 - 🌱 Currently learning Python
 - 🤔 Looking for help with OOP
 - 🇧🇷 Living in Ribeirão Preto, Brazil
-- ☢️ Master in Image Processing in Nuclear Medicine
+- ☢️ Master in Image Processing in Nuclear Medicine (USP-RP)
 - ⚡ Fun fact: Lover of games, books and Pokemon
 
 ## 🚀💻 Technologies & Tools
