@@ -1,6 +1,6 @@
 ### Hi there, I'm João Fiorelli! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-pedro-fiorelli-820942124)](https://www.linkedin.com/in/joão-pedro-fiorelli-820942124)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white://www.linkedin.com/in/joão-pedro-fiorelli-820942124)](https://www.linkedin.com/in/joão-pedro-fiorelli-820942124)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white:https://www.hackerrank.com/joao_fiorelli_13)](https://www.hackerrank.com/joao_fiorelli_13)
 
 Physicist, passionate about technology and aspiring back-end developer.
@@ -8,12 +8,12 @@ Physicist, passionate about technology and aspiring back-end developer.
 - 🌱 Currently learning Python
 - 🤔 Looking for help with OOP
 - 🇧🇷 Living in Ribeirão Preto, Brazil
+- ☢️ Master in Image Processing in Nuclear Medicine
 - ⚡ Fun fact: Lover of games, books and Pokemon
 
 ## 🚀💻 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Matlab](https://img.shields.io/badge/-Matlab-red?style=flat-square)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
