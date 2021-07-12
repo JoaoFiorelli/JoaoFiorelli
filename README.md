@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white://www.linkedin.com/in/joão-pedro-fiorelli-820942124)](https://www.linkedin.com/in/joão-pedro-fiorelli-820942124)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white:https://www.hackerrank.com/joao_fiorelli_13)](https://www.hackerrank.com/joao_fiorelli_13)
 
-Physicist, passionate about technology and aspiring back-end developer.
+Physicist, junior back-end developer and passionate about technology.
 
 - 🌱 Currently learning Python
 - 🤔 Looking for help with OOP
