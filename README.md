@@ -2,8 +2,6 @@
 
 #### Physicist, junior back-end developer and passionate about technology.
 
-- 🌱 Currently learning about FastAPI
-- 🤔 Looking for help with Django
 - 🇧🇷 Living in Ribeirão Preto, Brazil
 - ☢️ Master in Image Processing in Nuclear Medicine (USP-RP)
 - ⚡ Fun fact: Lover of games, books and Pokemon
@@ -13,6 +11,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
