@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joão-pedro-fiorelli-820942124/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joao-pedro-fiorelli" height="30" width="40" /></a>
+<a href="https://medium.com/@joao.fiorelli.13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@joao.fiorelli.13" height="30" width="40" /></a>
 </p>
 
 [![Fiorelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoFiorelli&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFiorelli&theme=radical&layout=compact&exclude_repo=new_whatsapp)](https://github.com/anuraghazra/github-readme-stats)
