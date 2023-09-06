@@ -2,9 +2,9 @@
 
 #### Physicist, junior back-end developer and passionate about technology.
 
-- 🇧🇷 Living in Ribeirão Preto, Brazil
+- 🇧🇷 Living in Jaú, Brazil
 - ☢️ Master in Image Processing in Nuclear Medicine (USP-RP)
-- ⚡ Fun fact: Lover of games, books and Pokemon
+- ⚡ Fun fact: Lover of games, books, gym and Pokemon
 
 ### 🚀💻 Languages and Tools: 
 
